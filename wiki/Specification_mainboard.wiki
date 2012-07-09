@@ -1,0 +1,189 @@
+#Specification
+
+= Specification Gigabyte GA-EP41-UD3L =
+
+
+ More revision this mainboard : 
+ 
+ * rev. 1.0 
+
+ * rev. 1.2 
+
+ * rev. 1.3
+
+ * rev. 3.3
+
+
+
+
+= Details (example for rev. 1.0) =
+ http://www.gigabyte.eu/products/product-page.aspx?pid=3065#sp
+
+
+
+
+*CPU*	
+
+
+    * Support for an Intel® Core™ 2 Extreme processor/ Intel® Core™ 2 Quad processor/Intel® Core™ 2 Duo processor/ Intel® Pentium® processor/Intel® Celeron®processor in the LGA775 package
+    (Go to GIGABYTE's website for the latest CPU support list.)
+    
+    * L2 cache varies with CPU 
+
+
+*Front Side Bus*	
+
+
+    * 1333/1066/800 MHz FSB 
+
+
+*Chipset*	
+
+
+    * North Bridge: Intel® G41 Express Chipset
+    * South Bridge: Intel® ICH7 
+
+
+*Memory*	
+
+
+    * 4 x 1.8V DDR2 DIMM sockets supporting up to 8 GB of system memory
+    * Dual channel memory architecture
+    * Support for DDR2 1066(OC)/800/667 MHz memory modules
+    (Go to GIGABYTE's website for the latest memory support list.) 
+
+ Because of Intel chipset limitation, please use single-side memory module if four memory modules are to be installed.
+
+
+*Audio*	
+
+
+    * Realtek ALC888 codec
+    * High Definition Audio
+    * 2/4/5.1/7.1-channel
+    * Support for S/PDIF In/Out
+    * Support for CD In 
+
+
+*LAN*	
+
+
+    * RTL8111C/D(L) chip (10/100/1000 Mbit)
+
+
+
+*Expansion Slots*	
+
+
+    * 1 x PCI Express x16 slot, running at x16
+    * 3 x PCI Express x1 slots
+    * 3 x PCI slots 
+
+
+*Storage Interface*
+
+	South Bridge:
+
+    * 1 x IDE connector supporting ATA-100/66/33 and up to 2 IDE devices
+    * 4 x SATA 3Gb/s connectors supporting up to 4 SATA 3Gb/s devices 
+
+
+        iTE IT8718 chip:
+
+    * 1 x floppy disk drive connector supporting up to 1 floppy disk drive 
+
+
+
+*USB*	
+
+
+    * Integrated in the South Bridge
+    * Up to 8 USB 2.0/1.1 ports (4 on the back panel, 4 via the USB brackets connected to the internal USB headers) 
+
+
+
+*Internal I/O Connectors*	
+
+    * 1 x 24-pin ATX main power connector
+    * 1 x 4-pin ATX 12V power connector
+    * 1 x floppy disk drive connector
+    * 1 x IDE connector
+    * 4 x SATA 3Gb/s connectors
+    * 1 x CPU fan header
+    * 2 x system fan headers
+    * 1 x power fan header
+    * 1 x front panel header
+    * 1 x front panel audio header
+    * 1 x CD In connector
+    * 1 x S/PDIF In header
+    * 1 x S/PDIF Out header
+    * 2 x USB 2.0/1.1 headers
+    * 1 x power LED header
+    * 1 x chassis intrusion header
+    * 1 x clearing CMOS jumper 
+
+
+
+*Back Panel Connectors*	
+
+
+    * 1 x PS/2 keyboard port
+    * 1 x PS/2 mouse port
+    * 1 x parallel port
+    * 1 x coaxial S/PDIF Out connector
+    * 1 x optical S/PDIF Out connector
+    * 1 x serial port
+    * 4 x USB 2.0/1.1 ports
+    * 1 x RJ-45 port
+    * 6 x audio jacks (Center/Subwoofer Speaker Out/Rear Speaker Out/ Side Speaker Out/Line In/Line Out/Microphone) 
+
+
+
+*I/O Controller*	
+
+
+    * iTE IT8718 chip 
+
+
+
+*H/W Monitoring*	
+
+
+    * System voltage detection
+    * CPU/System temperature detection
+    * CPU/System/Power fan speed detection
+    * CPU overheating warning
+    * CPU/System/Power fan fail warning
+    * CPU/System fan speed control 
+
+
+
+*BIOS*	
+
+
+    * 2 x 8 Mbit flash
+    * Use of licensed AWARD BIOS
+    * Support for DualBIOS™
+    * PnP 1.0a, DMI 2.0, SM BIOS 2.4, ACPI 1.0b 
+
+
+*Unique Features*	
+
+
+    * Support for @BIOS
+    * Support for Q-Flash
+    * Support for Virtual Dual BIOS
+    * Support for Download Center
+    * Support for Xpress Install
+    * Support for Xpress Recovery2
+    * Support for EasyTune
+    * Support for Dynamic Energy Saver Advanced
+    * Support for Time Repair
+    * Support for Q-Share 
+
+
+
+*Form Factor*	
+
+
+    * ATX Form Factor; 30.5cm x 21.0cm
